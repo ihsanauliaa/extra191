@@ -127,7 +127,14 @@
 - Untuk menjalankan script bash (biasanya filenya tidak berekstensi/line pertama dari file berisi ``#!/usr/bin/env`` bash atau ``#!/bin/sh``), ketik ``bash nama_file``
 - Untuk menjalankan file dengan ekstensi .c, compile terlebih dahulu dengan menjalankan perintah make, lalu jalankan dengan perintah ``./nama_file``
 - Untuk keluar ‘paksa’ dari suatu program, ketik ``ctrl + c``
-- Untuk meng-*copy* folder demos dari /extras/, **TODO!**
+- Untuk meng-*copy* folder demos dari /extras/:
+  - Masuk ke kawung jika tidak terkoneksi ke jaringan UI
+  - Masuk ke badak
+  - Copy folder extra ke direktori home masing-masing dengan memasukkan perintah ```cd```, lalu ``cp -r /home/extra extra/``
+  - *Compress* foldernya dengan perintah ``tar -cvzf extra.tar.gz extra``
+  - Pindahkan *file* yang telah di*compress* ke *local* dengan perintah ``scp extra.tar.gz [extra]@kawung.cs.ui.ac.id:~/extra.tar.gz`` (masih di badak)
+  - Keluar dari badak dan kawung
+  - Di *local*, masukkan perintah ``scp [user]@kawung.cs.ui.ac.id:~/extra.tar.gz extra.tar.gz``
 
 
 
