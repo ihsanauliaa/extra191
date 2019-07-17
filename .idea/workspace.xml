@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f71d5bf-98ad-4086-b5ef-a7003a6037cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aksesbadak.html" beforeDir="false" afterPath="$PROJECT_DIR$/aksesbadak.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/installprogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/installprogram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo.html" beforeDir="false" afterPath="$PROJECT_DIR$/memo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usefullinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/usefullinks.html" afterDir="false" />
-    </list>
+    <list default="true" id="2f71d5bf-98ad-4086-b5ef-a7003a6037cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,16 +107,17 @@
       <workItem from="1562683264979" duration="72000" />
       <workItem from="1562854166005" duration="2688000" />
       <workItem from="1562858401704" duration="895000" />
+      <workItem from="1563290791129" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3655000" />
+    <option name="totallyTimeSpent" value="3677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="167" y="50" width="1580" height="994" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25783288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
